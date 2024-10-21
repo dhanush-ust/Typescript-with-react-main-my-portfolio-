@@ -1,0 +1,15 @@
+.about-container {
+    padding: 20px;
+    background-color: #cc1313;
+  }
+  
+  .about-title {
+    font-size: 2em;
+    color: #d41414;
+  }
+  
+  .about-text {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
